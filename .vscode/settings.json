@@ -1,0 +1,12 @@
+{
+	"editor.formatOnSave": true,
+	"ruby.codeCompletion": "rcodetools",
+	"ruby.intellisense": "rubyLocate",
+	"ruby.useBundler": true,
+	"ruby.lint": {
+			"rubocop": {
+					"useBundler": true
+			},
+	},
+	"ruby.format": "rubocop",
+}
